@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-
+//blablablablablablablabalabalba
         System.out.println(args[0]);
         try {
             int num = Integer.parseInt(args[0]);
